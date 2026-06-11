@@ -2,6 +2,13 @@
 
 A comprehensive  list of the best AI agent directories available online. This curated collection includes websites and GitHub repositories that feature top AI agents, frameworks, and tools. Whether you're a developer, researcher, or entrepreneur, this list helps you discover, evaluate, and integrate the most powerful AI agents and platforms in the ecosystem.
 
+# NeuroNest AI Code Automation Tool
+[![Awesome](https://neuronest.cc/)
+
+NeuroNest is an AI code automation tool created to help developers handle software development tasks with more speed and accuracy. It supports coding, debugging, testing, security checks, research, DevOps, and workflow management, making it a useful platform for teams that want to build and improve software using AI agents.
+
+>contribition welcome -[open PR](https://github.com/NETGVai/NeuroNest)
+
 ## AI Agents Directories
 - [Altern AI Agents](https://altern.ai/ai-agents) - The world's largest AI agent marketplace, offering 1000+ agents across 50+ categories like productivity, coding, and voice AI.
 - [AI For Developers](https://aifordevelopers.org/category/coding-agents) - A List of Coding Agents
